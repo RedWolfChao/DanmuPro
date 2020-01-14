@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DanmuPro</string>
+    <string name="string_end_danmu">结束弹幕</string>
+    <string name="string_start_danmu">开始弹幕</string>
+</resources>
